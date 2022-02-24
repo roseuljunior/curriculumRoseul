@@ -114,9 +114,5 @@ function savePhoneNumber(event) {
     console.log(phoneNumber)
 }
 
-function goBackPage() {
-    window.history.back()
-}
 
-goBackPage()
 
