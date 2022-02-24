@@ -113,3 +113,10 @@ function savePhoneNumber(event) {
     document.getElementById('phoneNumber').value=''
     console.log(phoneNumber)
 }
+
+function goBackPage() {
+    window.history.back()
+}
+
+goBackPage()
+
